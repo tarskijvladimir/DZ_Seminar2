@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\Задача 10.csproj": {}
+    "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\Задача 10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\Задача 10.csproj": {
+    "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\Задача 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\Задача 10.csproj",
+        "projectUniqueName": "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\Задача 10.csproj",
         "projectName": "Задача 10",
-        "projectPath": "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\Задача 10.csproj",
+        "projectPath": "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\Задача 10.csproj",
         "packagesPath": "C:\\Users\\tarsk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\obj\\",
+        "outputPath": "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\DZ_2\\Задача 10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarsk\\AppData\\Roaming\\NuGet\\NuGet.Config"
